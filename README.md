@@ -11,7 +11,7 @@ const stocks = [
     { type: 'V', name: 'ABEV3', quantity: 400, value: 7672.00},
     { type: 'C', name: 'ITSA4', quantity: 400, value: 5504.00}
 ];
-```
+````
 
 Após isso, rode o comando `node script.js` e aguarde, será gerado um arquivo txt com as informações consolidadas das suas operações.
 
